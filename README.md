@@ -4,5 +4,5 @@ https://www.ncbi.nlm.nih.gov/pubmed/26468196
 
 The ROIs are a subset of the ROI-set defined by Craddock and collegues in 2012 (https://www.ncbi.nlm.nih.gov/pubmed/21769991)
 
-We created an age-representative network definition based on this ROI set, which is defined both in excel format ('networks.xlsx') and Matlab format ('networks.mat'). The networks are also provided in a nifti file ('networks.nii'). 
+We created an age-representative network definition based on this ROI set, which is defined both in excel format ('Networks.xlsx') and Matlab format ('networks.mat'). The networks are also provided in a nifti file ('Networks.nii'). 
 More information about how the networks were derived and which ROIs are included in this subset can be found in our JN paper. 
